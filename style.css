@@ -2,3 +2,35 @@
     color: red;
 
 }
+
+.logo {
+    padding-top: 109px;
+
+}
+
+.container {
+    display:flex;
+    flex-flow: column wrap;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.searchbox {
+    padding-top: 30px;
+
+}
+
+.buttons {
+    background-color: #f2f2f2;
+    border: 1px solid #f2f2f2;
+    border-radius: 4px
+    color: #5F6368;
+    font-family: arial, sans-serif;
+    font-size: 14px;
+    margin: 11px 4px;
+    padding: 16 16px;
+    text-align:center;
+
+}
