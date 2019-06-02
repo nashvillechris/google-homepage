@@ -61,3 +61,20 @@ li {
 .left {
     float: left;
 }
+
+.footer {
+
+    flex-shrink: 0;
+    background: gainsboro;
+}
+
+html, body {
+    height: 100%
+}
+body {
+    display: flex;
+    flex-direction: column;
+}
+.content {
+    flex: 1 0 auto;
+}
