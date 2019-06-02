@@ -46,6 +46,13 @@ li {
     padding: 10px;
 }
 
+.top {
+    color: rgb(51, 50, 50);
+    text-decoration: none;
+    font-family: arial, sans-serif;
+    font-size: 14px;
+}
+
 .right {
     float: right;
     
